@@ -1,0 +1,104 @@
+/* Default CSS */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Nav Section */
+.container{
+    width: 1240px;
+}
+
+.nav-menu{
+    background-color: #34495e;
+}
+
+nav h3{
+
+    font-size: 40px; 
+} 
+
+/* banner-section */
+.banner{
+    background-color: #e67e22;
+    text-align: center;
+    padding: 180px; 
+}
+.img-div{ 
+    box-shadow: 10px 10px 10px 5px white;
+}
+
+/* About Section */
+.about{
+    background-color: #34495e;
+}
+.About h2{
+    font-size: 50px;
+    color: white;
+    margin-bottom: 20px;
+}
+.About h4{
+    font-size: 30px;
+    color: #3498da;
+}
+.About p{
+    color: white;
+    font-size: 20px;
+}
+
+/* Service Section */
+.service{
+    background-color: #9b59b6;
+}
+.service p{
+
+    color: white;
+    font-size: 18px;
+    padding: 0px 40px 15px 40px;
+}
+.service-1{
+
+    color: #198754;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}
+.service-2{
+    color: #efc113;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    padding: 10px;
+}
+.service-3{
+    color: #95a5a6;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}
+
+/* Footer Top Section */
+.footer-top{
+    background-color: #e67e22;
+    text-align: center;
+    padding: 115px 220px 115px 220px;  
+}
+
+.star-div{
+    background-color: #dcdcdc;
+    padding: 50px 50px 50px 50px;
+    box-shadow: 20px 20px 2px 5px #f9f9f9;
+    border: 4px dashed #000;
+    border-radius: 5px;
+    font-size: 72px; 
+}
+
+/* footer */
+.footer{
+    background-color: #34495e;
+}
+.footer p{ 
+
+    font-size: 25px;
+}
